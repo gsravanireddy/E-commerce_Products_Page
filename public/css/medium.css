@@ -1,0 +1,211 @@
+@media all and (min-width: 700px) {
+  .menu {
+    justify-content: center;
+  }
+  .logo {
+    flex: 1;
+  }
+  .item.button {
+    width: auto;
+    order: 1;
+    display: block;
+  }
+  .toggle {
+    flex: 1;
+    text-align: right;
+    order: 2;
+  }
+  /* Button up from tablet screen */
+  .menu li.button a {
+    padding: 10px 15px;
+    margin: 5px 0;
+  }
+  .button a {
+    background: #ecaf44;
+    border: 1px #d6a650 solid;
+    color: #000000
+  }
+  .button.secondary {
+    border: 0;
+  }
+  .button.secondary a {
+    background: transparent;
+    border: 1px #ecaf44 solid;
+    color: #ffffff;
+  }
+  .button a:hover {
+    text-decoration: none;
+  }
+  .button:not(.secondary) a:hover {
+    background: #d6a650;
+    border-color: #bd8c36;
+  }
+
+  main {
+    padding: 3% 5%;
+    display: flex;
+    background-color: #f5f5f5;
+  }
+
+  .filterButton{
+    display:none;
+  }
+
+  aside {
+    display: block;
+    width: 25%;
+    height: fit-content;
+    background-color: #e1e1e0;
+    padding: 3%;
+  }
+
+  aside > h2 {
+    font-size: 20px;
+    font-weight: 800;
+    color: #1a2c42;
+  }
+
+  .aside {
+    display: block;
+  }
+
+  .closeFilter {
+    display: none;
+  }
+
+  fieldset.typeForm {
+    padding: 10% 0%;
+  }
+
+  legend {
+    font-weight: 600;
+  }
+
+  section {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 0 1%;
+  }
+
+  .mySlides {display: none;}
+.mySlides img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  width: 100%;
+  position: relative;
+  margin: auto;
+  display: block;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* The dots/bullets/indicators */
+.dots {
+    text-align:center; 
+    width: 100%;
+    padding: 2%;
+    display: block;
+}
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+.sorting {
+    margin: 0 auto;
+    width: 100%;
+    flex-direction: row-reverse;
+}
+
+.sorting > label {
+  order: 2;
+}
+
+.no-data{
+  margin: 5% auto;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.cards {
+  padding-top: 5%;
+}
+
+.card:hover {
+  box-shadow: 0 0 2px #ccc;
+}
+
+  .box {
+    width: 30%;
+    margin: 0 0 5%;
+  }
+ .box > figure {
+    transition: transform .2s;
+  }
+.box > figure:hover{
+  -ms-transform: scale(1.1); 
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1); 
+} 
+  .r-footer > * {
+    flex: 1;
+    }
+    
+    .features {
+    flex-grow: 2;
+    }
+    
+    .l-footer {
+    flex: 1 0px;
+    }
+
+    .l-footer > img {
+        margin-bottom: 5%;
+        width: 12%;
+    }
+    
+    .r-footer {
+    flex: 2 0px;
+    }
+    
+}
