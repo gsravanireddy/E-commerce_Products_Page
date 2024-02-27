@@ -13,7 +13,7 @@
     },
     {
         "id": "2",
-        "url": "../images/102.png",
+        "url": "images/102.png",
         "brand":"Zara",
         "description": "Women Wide Leg Jeans",
         "price": "1299",
@@ -24,7 +24,7 @@
     },
     {
         "id": "3",
-        "url": "../images/103.png",
+        "url": "images/103.png",
         "brand":"H&M",
         "description": "Women Skinny Fit Jeans",
         "price": "1499",
@@ -35,7 +35,7 @@
     },
     {
         "id": "4",
-        "url": "../images/104.png",
+        "url": "images/104.png",
         "brand":"Levis",
         "description": "Women Mom Jeans",
         "price": "2199",
@@ -46,7 +46,7 @@
     },
     {
         "id": "5",
-        "url": "../images/105.png",
+        "url": "images/105.png",
         "brand":"Zara",
         "description": "Women Wide Leg Jeans",
         "price": "2790",
@@ -57,7 +57,7 @@
     },
     {
         "id": "6",
-        "url": "../images/106.png",
+        "url": "images/106.png",
         "brand":"Veromoda",
         "description": "",
         "price": "2790",
@@ -68,7 +68,7 @@
     },
     {
         "id": "7",
-        "url": "../images/107.png",
+        "url": "images/107.png",
         "brand":"H&M",
         "description": "",
         "price": "1299",
@@ -79,7 +79,7 @@
     },
     {
         "id": "8",
-        "url": "../images/108.png",
+        "url": "images/108.png",
         "brand":"Zara",
         "description": "",
         "price": "2790",
@@ -90,7 +90,7 @@
     },
     {
         "id": "9",
-        "url": "../images/109.png",
+        "url": "images/109.png",
         "brand":"Divided",
         "description": "",
         "price": "2790",
@@ -101,7 +101,7 @@
     },
     {
         "id": "10",
-        "url": "../images/110.png",
+        "url": "images/110.png",
         "brand":"Zara",
         "description": "",
         "price": "1999",
@@ -112,7 +112,7 @@
     },
     {
         "id": "11",
-        "url": "../images/111.png",
+        "url": "images/111.png",
         "brand":"Levis",
         "description": "",
         "price": "899",
@@ -123,7 +123,7 @@
     },
     {
         "id": "12",
-        "url": "../images/112.png",
+        "url": "images/112.png",
         "brand":"Veromoda",
         "description": "",
         "price": "999",
@@ -134,7 +134,7 @@
     },
     {
         "id": "13",
-        "url": "../images/113.png",
+        "url": "images/113.png",
         "brand":"Divided",
         "description": "",
         "price": "1199",
@@ -145,7 +145,7 @@
     },
     {
         "id": "14",
-        "url": "../images/114.png",
+        "url": "images/114.png",
         "brand":"Levis",
         "description": "",
         "price": "3999",
@@ -156,7 +156,7 @@
     },
     {
         "id": "15",
-        "url": "../images/115.png",
+        "url": "images/115.png",
         "brand":"Veromoda",
         "description": "",
         "price": "2790",
@@ -167,7 +167,7 @@
     },
     {
         "id": "16",
-        "url": "../images/116.png",
+        "url": "images/116.png",
         "brand":"Zara",
         "description": "",
         "price": "2790",
@@ -178,7 +178,7 @@
     },
     {
         "id": "17",
-        "url": "../images/117.png",
+        "url": "images/117.png",
         "brand":"Zara",
         "description": "",
         "price": "1790",
@@ -189,7 +189,7 @@
     },
     {
         "id": "18",
-        "url": "../images/118.png",
+        "url": "images/118.png",
         "brand":"H&M",
         "description": "",
         "price": "2790",
@@ -200,7 +200,7 @@
     },
     {
         "id": "19",
-        "url": "../images/119.png",
+        "url": "images/119.png",
         "brand":"Zara",
         "description": "",
         "price": "1399",
@@ -211,7 +211,7 @@
     },
     {
         "id": "20",
-        "url": "../images/120.png",
+        "url": "images/120.png",
         "brand":"Divided",
         "description": "",
         "price": "999",
@@ -222,7 +222,7 @@
     },
     {
         "id": "21",
-        "url": "../images/121.png",
+        "url": "images/121.png",
         "brand":"Levis",
         "description": "",
         "price": "1790",
@@ -233,7 +233,7 @@
     },
     {
         "id": "22",
-        "url": "../images/122.png",
+        "url": "images/122.png",
         "brand":"Veromoda",
         "description": "",
         "price": "2699",
@@ -244,7 +244,7 @@
     },
     {
         "id": "23",
-        "url": "../images/123.png",
+        "url": "images/123.png",
         "brand":"Zara",
         "description": "",
         "price": "2799",
@@ -255,7 +255,7 @@
     },
     {
         "id": "24",
-        "url": "../images/124.png",
+        "url": "images/124.png",
         "brand":"Zara",
         "description": "",
         "price": "2499",
