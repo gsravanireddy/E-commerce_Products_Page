@@ -2,7 +2,7 @@
   "products": [
     {
         "id": "1",
-        "url": "../images/101.png",
+        "url": "images/101.png",
         "brand":"H&M",
         "description": "Women Straight Jeans",
         "price": "1299",
